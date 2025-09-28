@@ -13,7 +13,7 @@ And this Repo-1 is where all the sub repos exist, where you get to practice the 
 Its better to do things in person, rather than just mugging up tutorials. A combination of both will take you to the horizons
 of your highest potential.
 
-So yes, This Repo-1 will lwt you do things in person. And Git is not something you'll understand while just seeing someone else do the changes.
+So yes, This Repo-1 will let you do things in person. And Git is not something you'll understand while just seeing someone else do the changes.
 The most easiest way to learn it?
 Is to do it yourself,
 Fast and Steady.
